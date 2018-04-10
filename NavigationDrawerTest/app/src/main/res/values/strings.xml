@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Navigation Drawer Test</string>
+    <string name="inbox">Inbox</string>
+    <string name="starred">Starred</string>
+    <string name="sent_mail">Sent Mail</string>
+    <string name="open_drawer">Open</string>
+    <string name="close_drawer">Close</string>
+</resources>
